@@ -30,16 +30,16 @@ pip install pandas matplotlib seaborn jupyter notebook
 # Run Jupyter Notebook 
 jupyter notebook
 ```
-📊 Power BI Dashboard -
-The Power BI dashboard provides interactive visualizations of Kickstarter trends, including:                                                          
-Campaign success rates by category, country, and funding goal                                                                                                                           
-Backer engagement trends & funding timelines                                                                                                                                                                              
-Predictive insights for campaign optimization              
+### 📊 Power BI Dashboard
+- The Power BI dashboard provides interactive visualizations of Kickstarter trends, including:                                                          
+- Campaign success rates by category, country, and funding goal                                                                                                                           
+- Backer engagement trends & funding timelines                                                                                                                                                                              
+- Predictive insights for campaign optimization              
 
-🛠️ Tech Stack                                                                                                                                                                                                     
-Python: Data analysis & visualization (Pandas, Matplotlib, Seaborn)                                                                                                                  
-Power BI, Tableau: Interactive dashboards for funding insights                                                                                                                                 
-Jupyter Notebook: Exploratory Data Analysis (EDA)       
+### 🛠️ Tech Stack                                                                                                                                                                                                     
+✔ Python: Data analysis & visualization (Pandas, Matplotlib, Seaborn)                                                                                                                  
+✔ Power BI, Tableau: Interactive dashboards for funding insights                                                                                                                                 
+✔ Jupyter Notebook: Exploratory Data Analysis (EDA)       
 
-📄 License
+### 📄 License -
 This project is licensed under the Apache License 2.0 – see the LICENSE file for details.
